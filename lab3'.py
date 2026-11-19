@@ -136,4 +136,5 @@ def main():
             print("Nevirnyi vybir.")
 
 
-main()
+if __name__ == "__main__":
+    main()
